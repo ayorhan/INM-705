@@ -1,0 +1,39 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.12.4",
+    "heartbeatAt": "2024-08-08T07:37:45.330825",
+    "startedAt": "2024-08-08T07:37:43.773114",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/macbook/Projects/INM-705/train.py",
+    "codePathLocal": "train.py",
+    "codePath": "train.py",
+    "host": "macbooks-MacBook-Pro.local",
+    "username": "macbook",
+    "executable": "/opt/anaconda3/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3100,
+        "min": 3100,
+        "max": 3100
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3100,
+            "min": 3100,
+            "max": 3100
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 233.5667953491211,
+            "used": 192.23248291015625
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
